@@ -1,2 +1,2 @@
 # JavaMisc
-ImageToGrey --> Convert RGB to grayscale
+ImageToGrey --> GUI Convert RGB to grayscale
